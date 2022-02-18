@@ -8,5 +8,5 @@ Maximum Liklihood Estimation is a method for estimating parameters of an assumed
 In most cases, the first order condition of the likelihood function cannot be solved explicity, and this is where root estimation algorithms like Newton Rhapson come into play. Given a continuous and differentiable function, Newton's method approximates the root by taking a straight line tangent to it, learning from the error, and continuing until convergence.
 
 ## File Descriptions
-app ------------------------------------- main for streamlit application.
+app ------------------------------------- main for streamlit application.\n
 newton_rhapson_weibull_estimation ------- contains functions that compute MLEs based using newton rhapson method along with confidence intervals.
